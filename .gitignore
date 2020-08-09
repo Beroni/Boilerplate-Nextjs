@@ -32,3 +32,6 @@ yarn-error.log*
 # Service Worker
 public/sw.js
 public/workbox-*.js
+
+# Storybook build
+storybook-static/
